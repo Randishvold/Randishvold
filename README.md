@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Randish Deviant
 
-*Penggemar Teknologi & Dunia Digital*
+*An Enthusiast of Technology & the Digital World*
 
 <p align="center">
   <a href="https://github.com/Randishvold">
@@ -14,35 +14,35 @@
 
 ---
 
-### 👤 Tentang Saya
+### 👤 About Me
 
-Selamat datang di halaman saya. "Randish Deviant" bukanlah nama asli saya, melainkan sebuah nama alias yang sering saya gunakan saat bermain game online. 
+Welcome to my page! "Randish Deviant" isn't my real name, but an alias I often use when playing online games. 
 
-Saya bukanlah seorang programmer profesional, melainkan seorang penggemar teknologi yang antusias. Saya suka menggunakan kecerdasan buatan (AI) untuk mengeksplorasi dan membuat hal-hal ringan yang menarik.
+I'm not a professional programmer, just an enthusiastic tech fan. I enjoy using Artificial Intelligence (AI) to explore and create cool little things.
 
 ---
 
-### 趣味 Hobi & Minat
+### 🎮📚🎬🎵 Hobbies & Interests
 
 <details>
-  <summary>Game Online 🎮</summary>
-  <p>Saya sangat menikmati bermain game, terutama genre RPG dan MMORPG yang menawarkan dunia luas untuk dijelajahi.</p>
+  <summary>Online Games 🎮</summary>
+  <p>I really enjoy gaming, especially RPGs and MMORPGs that offer vast worlds to explore.</p>
 </details>
 
 <details>
-  <summary>Membaca 📚</summary>
-  <p>Saya suka menghabiskan waktu dengan membaca Manga dan Light Novel (LN) dari berbagai genre.</p>
+  <summary>Reading 📚</summary>
+  <p>I love spending my time reading Manga and Light Novels (LNs) from all sorts of genres.</p>
 </details>
 
 <details>
   <summary>Anime 🎬</summary>
-  <p>Menonton anime adalah salah satu hobi utama saya. Anime favorit saya sepanjang masa adalah <em>That Time I Got Reincarnated as a Slime (Tensura)</em>.</p>
+  <p>Watching anime is one of my main hobbies. My all-time favorite is <em>That Time I Got Reincarnated as a Slime (Tensura)</em>.</p>
 </details>
 
 ---
 
-### 💻 Ketertarikan Teknologi
+### 💻 Tech Interests
 
-Saya memiliki ketertarikan yang mendalam pada dunia teknologi, khususnya yang berkaitan dengan komputer dan jaringan. Saya selalu penasaran dengan cara kerja sistem digital dan bagaimana komponen-komponen tersebut saling terhubung untuk membentuk dunia modern.
+I have a deep interest in the world of technology, especially when it comes to computers and networking. I'm always curious about how digital systems work and how all the components connect to shape our modern world.
 
 ---
